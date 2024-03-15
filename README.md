@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hieu</h1>
+<a href="#" target="_blank">
+  <img src="svg/vanhieudev.svg" width="1200" alt="trungquandev-official" />
+</a>
+
 <br>
 <br>
 <br>
-<div align="center">
+<div >
 <img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center" style="width: 100%" />
-</div>  
-<div style="display: flex; justify-content: space-between; align-items: center;">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hrNnZibGo1cG9ndHA4cGMyamRjcTlqeHk4OTJ3ZXJ3N250MjczcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif" align="center" height="210" width="500" />
+<p>
   <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="height: auto;"></picture>
   About me
   <br>
@@ -15,7 +18,9 @@
       <img src="https://img.shields.io/twitter/follow/vanhieu26?logo=twitter&style=for-the-badge" alt="vanhieu26" />
     </a>
   </p>
-</div>
+<p/>  
+</div>  
+
 
 <br>
 
