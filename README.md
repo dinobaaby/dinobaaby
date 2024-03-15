@@ -6,8 +6,8 @@
 <br>
 <br>
 <div >
-<img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center" style="width: 100%" />
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hrNnZibGo1cG9ndHA4cGMyamRjcTlqeHk4OTJ3ZXJ3N250MjczcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif" align="center" height="210" width="500" />
+<img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center"  height="150" width="300"/>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hrNnZibGo1cG9ndHA4cGMyamRjcTlqeHk4OTJ3ZXJ3N250MjczcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif" align="center" height="150" width="300" />
 <p>
   <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="height: auto;"></picture>
   About me
