@@ -1,14 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hieu</h1>
 <br>
 <br>
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center" style="width: 100%" />
 </div>  
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/418542811_404747775315766_3474903708609180573_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHOIa5XgvcZodP0bRsb5BNxu7dI7jWCLBm7t0juNYIsGXWRFCZ2Bipv8wWAk71SkfMyNX5cq8x6bXUJlDEUAhfL&_nc_ohc=WHh9Qa6vE9kAX8115n1&_nc_ht=scontent-hkg1-2.xx&oh=00_AfAE0l5jqIZjhJIRHeQ-mEAMUHs3MHbySLv0U6jWdEAoeQ&oe=65F9DBD7)" width = 250px></picture>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="height: auto;"></picture>
+  About me
+  <br>
+<br>
+  <p style="margin: 0;">
+    <a href="https://twitter.com/vanhieu26" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/vanhieu26?logo=twitter&style=for-the-badge" alt="vanhieu26" />
+    </a>
+  </p>
+</div>
 
 <br>
 
@@ -17,6 +24,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+fullstack+developer)](https://github.com/yukiharasensei)
 
  </div>  
+ 
  <div align="center">
    
 - My name is Trinh Van Hieu
@@ -36,6 +44,9 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJucHB1ZnB3ZmJ2c3RtMjZmZ2k1N3hwY2s0Ym44MWdlOGMydXl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NvONRxCxKRPpe/giphy.gif" align="center" style="width: 100%" />
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
